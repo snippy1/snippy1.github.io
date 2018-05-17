@@ -46,8 +46,13 @@ header.startup h1 {
   padding: 1rem 2rem; 
 }
 
-.btn-primary:hover {
+.btn-primary {
+  background-color: #383276;
+  border-color: #383276; }
 
+.btn-primary:hover {
+  background-color: #837EB1;
+  border-color: #837EB1;
   border-width: 5px;
   cursor: pointer;
 }
